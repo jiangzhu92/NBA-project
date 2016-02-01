@@ -1,0 +1,22 @@
+This script is intended to download the data of the player on a user-selected date and a user selected match for linux and mac user. To use this script please you should have the following prerequests and follow the following steps:
+
+request:
+
+1. python 3 is installed
+
+2. python packages 'numpy', 'requests', 'urllib.request', 'lxml.html' are installed
+
+Then you can follow the following step:
+
+1.open your terminal
+
+2. type 'cd ~'
+
+3. type git clone 'https://github.com/jiangzhu92/NBA-project.git'
+
+4.type 'cd ~/NBA-project'
+
+5. type 'python3 new.py'
+
+6. Then follow everything on the screen, and you will get all the information you want
+
