@@ -12,7 +12,7 @@ Then you can follow the following step:
 
 2. type 'cd ~'
 
-3. type git clone 'https://github.com/jiangzhu92/NBA-project.git'
+3. type 'git clone https://github.com/jiangzhu92/NBA-project.git'
 
 4.type 'cd ~/NBA-project'
 
