@@ -80,6 +80,7 @@ for td in htm.xpath("""//td[@class="nbaGIPbPLftScore"]"""):
 for td in htm.xpath("""//td[@class="nbaGIPbPLft"]"""):
     cr.append(td.text_content())
 
+print('This is what the player you selected did in the match you selected')
 for i in range(len(cr)):
     if player in cr[i]:
         print(cr[i])
