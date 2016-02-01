@@ -1,4 +1,6 @@
-This script is intended to download the data of the player on a user-selected date and a user selected match for linux and mac user. To use this script please you should have the following prerequests and follow the following steps:
+This script is intended to download the data of the NBA player 
+on a user-selected date and a user selected match for linux and mac user. 
+To use this script please you should have the following prerequests and follow the following steps:
 
 request:
 
